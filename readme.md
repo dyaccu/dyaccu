@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Damián Yaccuzzi
+# 👋 ¡Hola! Soy Damián Yaccu
 
 ### 🚀 Sobre mí  
 Soy **Licenciado en Administración de Empresas** con una gran pasión por el aprendizaje continuo y el desarrollo profesional en el sector **IT**. Actualmente, estoy profundizando mis conocimientos en **lógica de programación** con JavaScript y explorando temas como funciones, listas y estructuras fundamentales para la programación.
