@@ -1,35 +1,67 @@
 # 👋 ¡Hola! Soy Damián Yaccu
 
-### 🚀 Sobre mí  
-Soy **Licenciado en Administración de Empresas** con una gran pasión por el aprendizaje continuo y el desarrollo profesional en el sector **IT**. Actualmente, estoy profundizando mis conocimientos en **lógica de programación** con JavaScript y explorando temas como funciones, listas y estructuras fundamentales para la programación.
+## 🚀 Sobre mí  
+Soy **Licenciado en Administración de Empresas** con una fuerte orientación al sector **IT** y al desarrollo de soluciones digitales aplicadas al entorno organizacional. Me apasiona aprender constantemente y combinar la lógica de la administración con las herramientas tecnológicas para mejorar procesos, tomar mejores decisiones y generar impacto.
 
-### 💼 Objetivos  
-Mi objetivo es combinar mis habilidades en **administración de empresas** con la **tecnología**, enfocándome en áreas como la automatización de procesos, análisis de datos y desarrollo de soluciones digitales que optimicen el desempeño organizacional.
-
-### 🛠️ Habilidades  
-- **Lenguajes de programación:** JavaScript (en proceso de aprendizaje).  
-- **Herramientas de gestión:** Excel avanzado, análisis financiero y planificación estratégica.  
-- **Otros conocimientos:**  
-  - Desarrollo de recursos humanos.  
-  - Auditorías de recursos humanos.  
-  - Proyecciones financieras y evaluación de proyectos.  
-
-### 🌱 Actualmente aprendiendo  
-- **Lógica de programación:** Conceptos básicos y avanzados en JavaScript.  
-- **Teoría de carteras:** Cálculo de rendimiento esperado y análisis de riesgos.  
-
-### 💡 Proyectos en curso  
-- 📊 Simulador de proyecciones financieras: Una herramienta para realizar cálculos y análisis financieros en tiempo real.  
-- 📈 Planificador de carteras de inversión: Un proyecto práctico basado en teoría de carteras.  
-
-### 📫 Conéctate conmigo  
-- [LinkedIn](https://www.linkedin.com/in/damianyaccuzzi/)  
-
-### ✨ Datos curiosos  
-- Siempre busco soluciones sustentables y prácticas.  
-- Creo que la tecnología debe ser un habilitador para la eficiencia y el desarrollo personal.  
-- ¡Me encanta aprender y compartir conocimientos!  
+Actualmente formo parte del programa **Oracle Next Education (ONE)** de Alura Latam, donde profundizo mis habilidades en **programación, análisis de datos y desarrollo web**.
 
 ---
 
-¡Gracias por visitar mi perfil! Si tienes algún proyecto interesante o deseas colaborar, no dudes en contactarme.
+## 🎯 Objetivos profesionales  
+- Integrar la **administración de empresas** con la **tecnología y automatización**.  
+- Crear soluciones digitales para **optimizar la eficiencia organizacional**.  
+- Desarrollarme en áreas como **Data Science, desarrollo front-end** y **análisis financiero con herramientas digitales**.
+
+---
+
+## 🛠️ Habilidades  
+
+### Lenguajes y tecnologías  
+- JavaScript (en aprendizaje)  
+- HTML, CSS  
+- Git y GitHub  
+- Google Colab, Jupyter Notebooks  
+
+### Gestión y análisis  
+- Excel avanzado  
+- Análisis financiero y proyecciones  
+- Evaluación de proyectos  
+- Planificación estratégica  
+
+### Recursos Humanos  
+- Desarrollo y capacitación del personal  
+- Auditoría de RR.HH.  
+- Observación y análisis de puestos de trabajo  
+
+---
+
+## 🌱 Actualmente aprendiendo  
+- Lógica de programación: estructuras, funciones, listas y bucles  
+- Estadística aplicada con Python  
+- Teoría de carteras: riesgo, rendimiento esperado y correlación  
+- Proceso de ETL para análisis de churn de clientes  
+
+---
+
+## 💡 Proyectos en curso  
+- 📊 **Simulador de proyecciones financieras**: Herramienta para evaluar escenarios y calcular indicadores clave.  
+- 📈 **Planificador de portafolios de inversión**: Análisis de carteras según riesgo y rendimiento.  
+- 📉 **Análisis de churn de clientes**: Proyecto de ciencia de datos orientado a la fidelización y predicción de fuga.  
+
+---
+
+## 📫 Conéctate conmigo  
+[💼 LinkedIn](https://www.linkedin.com/in/damianyaccu)
+
+---
+
+## ✨ Un poco más sobre mí  
+- Me enfoco en **soluciones prácticas, sustentables y con impacto real**  
+- Creo que la **tecnología debe estar al servicio del desarrollo humano y profesional**  
+- Me encanta **aprender, colaborar en equipo y compartir conocimiento**
+
+---
+
+¡Gracias por visitar mi perfil!  
+Si te interesa colaborar o necesitas una visión administrativa con enfoque tecnológico, **estoy abierto a nuevas oportunidades**.
+
