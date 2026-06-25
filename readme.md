@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Damián Yaccu
 
 ## 🚀 Sobre mí  
-Soy **Licenciado en Administración de Empresas** con una fuerte orientación al sector **IT** y al desarrollo de soluciones digitales aplicadas al entorno organizacional. Me apasiona aprender constantemente y combinar la lógica de la administración con las herramientas tecnológicas para mejorar procesos, tomar mejores decisiones y generar impacto.
+Soy **Administrador de Empresas** con una fuerte orientación al sector **IT** y al desarrollo de soluciones digitales aplicadas al entorno organizacional. Me apasiona aprender constantemente y combinar la lógica de la administración con las herramientas tecnológicas para mejorar procesos, tomar mejores decisiones y generar impacto.
 
 Actualmente formo parte del programa **Oracle Next Education (ONE)** de Alura Latam, donde profundizo mis habilidades en **programación, análisis de datos y desarrollo web**.
 
